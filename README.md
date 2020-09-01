@@ -11,7 +11,11 @@ Project Scope:
 Hotel Management System aims at automation of the following processes:
 
 a.	To make hotel management system much simpler and more effective in order to meet the satisfaction levels of the customer.
+
 b.	Generating bill at the check-out time.
+
 c.	Storing the information of the guest in the computerized database.
+
 d.	Making queries to know about the guests checking-in, checking-out, room occupancy, services available.
+
 e.	Updating the guest account according to the services used by him.
